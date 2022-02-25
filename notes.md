@@ -6,3 +6,8 @@ git command:
 	git remote add origin https://github.com/anniehuynh/git-assignment
 5. git add notes.md to add file to commit
 6. push changes to the remote repo: git push
+
+UPDATE commands:
+git add .
+git commit -m "commit changes in notes.md"
+git push origin master
